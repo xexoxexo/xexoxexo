@@ -31,6 +31,7 @@ Hey there! 👋 I'm a 22-year-old tech enthusiast who's all about open source an
   <img src="https://img.shields.io/badge/python-20232A?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/AWS-66666?style=for-the-badge&logo=aws&logoColor=black" alt="AWS" />
+  <img src="https://img.shields.io/badge/Firebase-330000?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
 <p align="center">
   <img src="https://img.shields.io/badge/Github-EEEEE?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
