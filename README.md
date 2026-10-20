@@ -26,10 +26,17 @@ Hey there! 👋 I'm a 22-year-old tech enthusiast who's all about open source an
 ## <span style="font-size: 30px;">🛠️ Languages & Tools</span>
 
 <p align="center">
+  
+  <img src="https://img.shields.io/badge/python-20232A?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/AWS-66666?style=for-the-badge&logo=aws&logoColor=black" alt="AWS" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Github-EEEEE?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
 </p>
 <p align="center">
@@ -37,9 +44,13 @@ Hey there! 👋 I'm a 22-year-old tech enthusiast who's all about open source an
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   <img src="https://img.shields.io/badge/Bun-FFD700?style=for-the-badge&logo=bun&logoColor=black" alt="Bun" />
+  <img src="https://img.shields.io/badge/Figma-FFE4E1?style=for-the-badge&logo=figma&logoColor=black" alt="Figma" />
+  <img src="https://img.shields.io/badge/Framer-FF1441?style=for-the-badge&logo=framer&logoColor=black" alt="Framer" />
+  <img src="https://img.shields.io/badge/Dart-FF3G63?style=for-the-badge&logo=dart&logoColor=black" alt="Dart" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -73,21 +84,23 @@ Hey there! 👋 I'm a 22-year-old tech enthusiast who's all about open source an
 <div align="center">
   <table>
     <tr>
-      <td width="33%" align="center">
-        <a href="https://github.com/HireSight/Frontend">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HireSight&repo=Frontend&theme=tokyonight&hide_border=true" alt="HireSight Frontend">
+      <td width="50%" align="center">
+        <a href="https://github.com/xexoxexo/mobileapp-Klasifikasi-Sampah-menggunakan-metode-AI-ML">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=xexoxexo&repo=mobileapp-Klasifikasi-Sampah-menggunakan-metode-AI-ML&theme=tokyonight&hide_border=true" alt="Mobile App Klasifikasi Sampah">
         </a>
         <br>
-        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlpeXU1Zmxsc3Vsa2IwZ2libXdiOGtreHl3ZnE2OWZrb3Z2aHVrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oOxSXI5D2cvc6kYSvw/giphy-downsized-large.gif" alt="Neo from The Matrix saying 'I know frontend'" width="200" />
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlpeXU1Zmxsc3Vsa2IwZ2libXdiOGtreHl3ZnE2OWZrb3Z2aHVrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oOxSXI5D2cvc6kYSvw/giphy-downsized-large.gif" alt="AI Animation" width="200" />
         <br>
-        <i>"I know frontend."</i>
+        <i>"Aplikasi mobile cerdas untuk klasifikasi sampah menggunakan teknologi AI dan Machine Learning."</i>
       </td>
-      <td align="center">
-        <a href="https://github.com/Ansh1902396/AE-Forge">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ansh1902396&repo=AE-forge&theme=tokyonight&hide_border=true" alt="AE-Forge">
+      <td width="50%" align="center">
+        <a href="https://github.com/xexoxexo/EcoCycle">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=xexoxexo&repo=EcoCycle&theme=tokyonight&hide_border=true" alt="EcoCycle Capstone Project">
         </a>
         <br>
-         <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHl1enBydWNmb3R5Y2Vuc3YxbnN0NWRxaXI2eWljNjZub3R0MHk2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGOCxq1V8N7E1icuQ/giphy-downsized.gif" alt="Neo from The Matrix saying 'I know frontend'" width="200" />
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHl1enBydWNmb3R5Y2Vuc3YxbnN0NWRxaXI2eWljNjZub3R0MHk2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGOCxq1V8N7E1icuQ/giphy-downsized.gif" alt="Eco Animation" width="200" />
+        <br>
+        <i>"Inovasi proyek capstone EcoCycle yang berfokus pada solusi keberlanjutan lingkungan."</i>
       </td>
     </tr>
   </table>
@@ -133,7 +146,7 @@ Hey there! 👋 I'm a 22-year-old tech enthusiast who's all about open source an
     <img alt="All Repositories" title="All Repos" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
   <a href="https://github.com/xexoxexo?tab=repositories&sort=stargazers">
-    <img alt="Total Stars" title="Total Stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FAnsh1902396"/>
+    <img alt="Total Stars" title="Total Stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fxexoxexo"/>
   </a>
   <a href="https://github.com/xexoxexo?tab=followers">
     <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/xexoxexo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
