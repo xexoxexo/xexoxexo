@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/Xx-xexoxexo-xX/Xx-xexoxexo-xX/blob/master/assets/208593.gif" alt="Welcome GIF" width="700">
+  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif" alt="Welcome GIF" width="700">
 </div>
 
 ## <span style="font-size: 30px;">About ME 💬</span>
