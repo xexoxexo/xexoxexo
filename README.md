@@ -3,16 +3,16 @@
 <p align="center">
   <a href="mailto:mzakyarman@gmail.com"><img src="https://img.shields.io/badge/Email-mzakyarman%40gmail.com-blue?style=flat-square&logo=gmail" style="font-size: 20px;"></a>
   <a href="linkedin.com/in/zakyarmanmaulana-109a5v97s//"><img src="https://img.shields.io/badge/LinkedIn-zakyarmanmaulana%20-blue?style=flat-square&logo=linkedin" style="font-size: 20px;"></a>
-  <a href="https://twitter.com/rudransh190204"><img src="https://img.shields.io/badge/Twitter-@rudransh190204-blue?style=flat-square&logo=twitter" style="font-size: 20px;"></a>
+  <a href="https://x.com/izakivengeance"><img src="https://img.shields.io/badge/Twitter-@izakivengeance-blue?style=flat-square&logo=twitter" style="font-size: 20px;"></a>
 </p>
 
 <div align="center">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif" alt="Welcome GIF" width="700">
+  <img src="https://github.com/Xx-xexoxexo-xX/Xx-xexoxexo-xX/blob/master/assets/208593.gif" alt="Welcome GIF" width="700">
 </div>
 
 ## <span style="font-size: 30px;">About ME 💬</span>
 
-<img align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif" width="400">
+<img align="right" src="https://github.com/Xx-xexoxexo-xX/Xx-xexoxexo-xX/blob/master/assets/1936.gif" width="400">
 
 <span style="font-size: 18px;">
 Hey there! 👋 I'm a 24-year-old tech enthusiast who's all about open source and development. From DevOps to Blockchain, I love diving into new challenges and crafting innovative solutions. With a passion for clean code and a drive to make a difference, I'm ready to collaborate and build something awesome. Let's connect and create magic together! ✨🚀
