@@ -26,7 +26,8 @@ Hey there! 👋 I'm a 22-year-old tech enthusiast who's all about open source an
 ## <span style="font-size: 30px;">🛠️ Languages & Tools</span>
 
 <p align="center">
-  
+
+  <img src="https://img.shields.io/badge/Shell-00FF00?style=for-the-badge&logo=shell&logoColor=white" alt="Shell" />
   <img src="https://img.shields.io/badge/python-20232A?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/AWS-66666?style=for-the-badge&logo=aws&logoColor=black" alt="AWS" />
