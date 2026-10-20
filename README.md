@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="mailto:mzakyarman@gmail.com"><img src="https://img.shields.io/badge/Email-mzakyarman%40gmail.com-blue?style=flat-square&logo=gmail" style="font-size: 20px;"></a>
-  <a href="linkedin.com/in/zakyarmanmaulana-109a5v97s//"><img src="https://img.shields.io/badge/LinkedIn-zakyarmanmaulana%20Shinghal-blue?style=flat-square&logo=linkedin" style="font-size: 20px;"></a>
+  <a href="linkedin.com/in/zakyarmanmaulana-109a5v97s//"><img src="https://img.shields.io/badge/LinkedIn-zakyarmanmaulana%20-blue?style=flat-square&logo=linkedin" style="font-size: 20px;"></a>
   <a href="https://twitter.com/rudransh190204"><img src="https://img.shields.io/badge/Twitter-@rudransh190204-blue?style=flat-square&logo=twitter" style="font-size: 20px;"></a>
 </p>
 
