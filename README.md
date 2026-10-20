@@ -15,7 +15,7 @@
 <img align="right" src="https://github.com/Xx-xexoxexo-xX/Xx-xexoxexo-xX/blob/master/assets/1936.gif" width="400">
 
 <span style="font-size: 18px;">
-Hey there! 👋 I'm a 24-year-old tech enthusiast who's all about open source and development. From DevOps to Blockchain, I love diving into new challenges and crafting innovative solutions. With a passion for clean code and a drive to make a difference, I'm ready to collaborate and build something awesome. Let's connect and create magic together! ✨🚀
+Hey there! 👋 I'm a 22-year-old tech enthusiast who's all about open source and development. From DevOps to Blockchain, I love diving into new challenges and crafting innovative solutions. With a passion for clean code and a drive to make a difference, I'm ready to collaborate and build something awesome. Let's connect and create magic together! ✨🚀
 </span>
 
 - 🌱 **Learning:** Data Structures & Algorithms, System Programming, Web Assembly, SCADA, Ethical Hacker
