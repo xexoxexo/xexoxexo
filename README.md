@@ -1,7 +1,7 @@
 # <div align="center" style="font-size: 36px;">Konichiwa 👋 Zaky Arman Maulana</div>
 
 <p align="center">
-  <a href="mailto:rudransh9shinghal@gmail.com"><img src="https://img.shields.io/badge/Email-rudransh9shinghal%40gmail.com-blue?style=flat-square&logo=gmail" style="font-size: 20px;"></a>
+  <a href="mailto:mzakyarman@gmail.com"><img src="https://img.shields.io/badge/Email-mzakyarman%40gmail.com-blue?style=flat-square&logo=gmail" style="font-size: 20px;"></a>
   <a href="https://www.linkedin.com/in/rudransh-shinghal-264b37206/"><img src="https://img.shields.io/badge/LinkedIn-Rudransh%20Shinghal-blue?style=flat-square&logo=linkedin" style="font-size: 20px;"></a>
   <a href="https://twitter.com/rudransh190204"><img src="https://img.shields.io/badge/Twitter-@rudransh190204-blue?style=flat-square&logo=twitter" style="font-size: 20px;"></a>
 </p>
