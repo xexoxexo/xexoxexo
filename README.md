@@ -1,4 +1,4 @@
-# <div align="center" style="font-size: 36px;">Hey 👋 Zaky Arman Maulana</div>
+# <div align="center" style="font-size: 36px;">Konichiwa 👋 Zaky Arman Maulana</div>
 
 <p align="center">
   <a href="mailto:izakiarmnn@gmail.com"><img src="https://img.shields.io/badge/Email-mzakyarman%40gmail.com-blue?style=flat-square&logo=gmail" style="font-size: 20px;"></a>
