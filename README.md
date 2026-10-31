@@ -27,7 +27,7 @@ Hey there! 👋 I'm a 22-year-old tech enthusiast & finance enthusiast who's all
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Kali Linux-ffffff?style=for-the-badge&logo=Kali Linux&logoColor=black" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Ruby-AA7DAB?style=for-the-badge&logo=Ruby&logoColor=white" alt="Ruby" />
   <img src="https://img.shields.io/badge/Supabase-GG7HUJ?style=for-the-badge&logo=Supabase&logoColor=white" alt="Supabase" />
 
