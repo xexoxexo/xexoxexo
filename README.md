@@ -28,6 +28,7 @@ Hey there! 👋 I'm a 22-year-old tech enthusiast & finance enthusiast who's all
 <p align="center">
 
   <img src="https://img.shields.io/badge/PortSwigger-ffffff?style=for-the-badge&logo=PortSwigger&logoColor=black" alt="PortSwigger" />
+  <img src="https://img.shields.io/badge/Metasploit-ffffff?style=for-the-badge&logo=Metasploit&logoColor=black" alt="Metasploit" />
   
 <p align="center">
 
