@@ -172,13 +172,13 @@ Hey there! 👋 I'm a 22-year-old tech enthusiast & finance enthusiast who's all
     <img alt="Total Stars" title="Total Stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fxexoxexo"/>
   </a>
   <a href="https://github.com/xexoxexo?tab=followers">
-    <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/xexoxexo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/github.com/xexoxexo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
   <a href="https://github.com/xexoxexo">
-    <img alt="Views" title="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=xexoxexostyle=for-the-badge"/>
+    <img alt="Views" title="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=xexoxexo/style=for-the-badge"/>
   </a>
 </p>
 
 <div align="center">
-  <img src="https://github.com/Suryansh-23/Suryansh-23/blob/main/images/footer.png" width="100%" height="auto"/>
+  <img src="https://github.com/xexoxexo/xexoxexo/blob/main/images/footer.png" width="100%" height="auto"/>
 </div>
