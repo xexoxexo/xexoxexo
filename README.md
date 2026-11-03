@@ -165,17 +165,17 @@ Hey there! 👋 I'm a 22-year-old tech enthusiast & finance enthusiast who's all
 </div>
 
 <p align="center">
-  <a href="https://github.com/xexoxexo?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" title="All Repos" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
+  <a href="https://github.com/xexoxexo?tab=repositories">
+    <img alt="All Repositories" title="All Repos" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fxexoxexo&query=public_repos&label=All%20Repos&style=for-the-badge&logo=github&color=2962FF&logoColor=white"/>
   </a>
   <a href="https://github.com/xexoxexo?tab=repositories&sort=stargazers">
-    <img alt="Total Stars" title="Total Stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fxexoxexo"/>
+    <img alt="Total Stars" title="Total Stars on GitHub" src="https://img.shields.io/github/stars/xexoxexo?style=for-the-badge&logo=github&color=55960c&label=Total%20Stars"/>
   </a>
   <a href="https://github.com/xexoxexo?tab=followers">
-    <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/github.com/xexoxexo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <img alt="Followers" title="Follow me on Github" src="https://img.shields.io/github/followers/xexoxexo?style=for-the-badge&logo=github&color=236ad3&label=Followers"/>
   </a>
   <a href="https://github.com/xexoxexo">
-    <img alt="Views" title="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=xexoxexo/style=for-the-badge"/>
+    <img alt="Views" title="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=xexoxexo&style=for-the-badge"/>
   </a>
 </p>
 
