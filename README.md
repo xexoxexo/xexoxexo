@@ -28,6 +28,7 @@ Hey there! 👋 I'm a 22-year-old tech enthusiast & finance enthusiast who's all
 <p align="center">
 
 <img src="https://img.shields.io/badge/Claude-ffffff?style=for-the-badge&logo=Claude&logoColor=black" alt="Claude" />
+<img src="https://img.shields.io/badge/OWASP-ffffff?style=for-the-badge&logo=OWASP&logoColor=black" alt="OWASP" />
   
 <p align="center">
 
