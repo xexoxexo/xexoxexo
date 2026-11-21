@@ -6,6 +6,11 @@
   <a href="https://x.com/izakivengeance"><img src="https://img.shields.io/badge/Twitter-@izakivengeance-blue?style=flat-square&logo=twitter" style="font-size: 20px;"></a>
 </p>
 
+<p align="center">
+<a href="https://www.upwork.com/freelancers/~014305a1f033ee358d?mp_source=share" target="_blank">
+  <img src="https://cdn.simpleicons.org/upwork/6FDA44" alt="Upwork" width="32" height="32" />
+</a>
+
 <div align="center">
   <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif" alt="Welcome GIF" width="700">
 </div>
