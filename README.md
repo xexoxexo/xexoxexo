@@ -24,7 +24,7 @@ Hey there! 👋 I'm a 22-year-old tech enthusiast & finance enthusiast who's all
 </span>
 
 - 🌱 **Learning:** Data Structures & Algorithms, System Programming, Web Assembly, SCADA, Ethical Hacker
-- 💼 **Open for:** Collaborations in DevOps, Blockchain, and Open Source projects
+- 💼 **Open for:** Collaborations in DevOps, Blockchain, QA Engineer dll. 
 - 💬 **Let's talk about:** System Design, Blockchain Technology, or the latest tech trends
 - 🎮 **Hobbies:** Gaming Addict, Watching Anime, Reading Sci-Fi Novels
 
